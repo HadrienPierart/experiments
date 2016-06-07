@@ -1,3 +1,5 @@
+// > A useful mnemonic is "A for array and C for comma."
+
 // Apply
 // =====
 
