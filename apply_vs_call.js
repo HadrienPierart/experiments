@@ -1,4 +1,6 @@
 // > A useful mnemonic is "A for array and C for comma."
+// Call takes a list of parameters and Apply takes an Array
+// Apply becomes handy when you dont know how many params you receive. Then you can use the array 'arguments'
 
 // Apply
 // =====
